@@ -1,0 +1,55 @@
+/* LOGO1 */
+
+.LOGO1 {
+  background-color: #000000;
+  display: flex;
+  color: hsl(208, 100%, 97%);
+  font-family: "Stint Ultra Condensed", cursive;
+}
+
+#J1 {
+  margin-left: 10vw;
+  font-size: 100pt;
+}
+#I1 {
+  margin-left: -0.5vw;
+  font-size: 100pt;
+  z-index: 0;
+}
+#N1 {
+  margin-left: -0.5vw;
+  font-size: 100pt;
+}
+
+#N1:hover {
+  margin-left: -1.8vw;
+  transition: 1s;
+}
+
+/* LOGO2 */
+
+.LOGO2 {
+  background-color: #000000;
+  display: flex;
+  color: white;
+  font-family: "Sofadi One", cursive;
+}
+
+#J2 {
+  margin-left: 10vw;
+  font-size: 100pt;
+}
+#I2 {
+  margin-left: -0.5vw;
+  font-size: 100pt;
+  z-index: 0;
+}
+#N2 {
+  margin-left: -0.5vw;
+  font-size: 100pt;
+}
+
+#N2:hover {
+  margin-left: -2.2vw;
+  transition: 1s;
+}
